@@ -7,8 +7,9 @@ from aiotg import Bot
 from database import db, text_search
 
 greeting = """
-    ✋ Welcome to Telegram Music Catalog! 🎧
-We are a community of music fans who are eager to share what we love.
+    Hey!
+    
+I'm a bot for @lightningsupport to play music !.
 Just send your favourite tracks as audio files and they'll be available for everyone, on any device.
 To search through the catalog, just type artist name or track title. Nothing found? Feel free to fix it!
 """
